@@ -4,6 +4,7 @@ http:
     router0:
       entryPoints:
         - web
+        - websecure
       # middlewares:
       #   - my-basic-auth
       service: service-foo
