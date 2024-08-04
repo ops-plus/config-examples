@@ -1,0 +1,8 @@
+# bin
+bin/*
+!bin/.gitkeep
+
+
+# log
+logs/*
+!logs/.gitkeep
