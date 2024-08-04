@@ -4,4 +4,6 @@
 
 目前支持
 
-- traefik
+- [traefik](https://github.com/traefik/traefik/)
+- [promtail](https://github.com/grafana/loki/tree/main/clients/cmd/promtail)
+- [loki](https://github.com/grafana/loki)
